@@ -3,7 +3,7 @@ Deploy the WordPress application to an Amazon EC2 instance using Amazon codedepl
 
 # Overview
 
-This lab introduces you to AWS Codedeploy In this lab you will use AWSCodedeploy to deploy an application to an Amazon EC2 instance
+This lab introduces you to AWS Codedeploy In this lab you will use AWS Codedeploy to deploy an application to an Amazon EC2 instance
 
 # Topics covered
  By the end of this lab , you will be able to:
@@ -62,7 +62,7 @@ sudo service codedeploy-agent status
 ```
 
 
-The AWS Code Deploy agent is a software package that , when installed andconfigured on an instance , enables that instance to be used in AWSCodedeploy deployments The AWS Codedeploy agent is required only if youdeploy to an EC2 / On-premises compute platform . The agent is not required fordeployments that use the AWS Lambda compute platform
+The AWS Code Deploy agent is a software package that , when installed andconfigured on an instance , enables that instance to be used in AWS Codedeploy deployments The AWS Codedeploy agent is required only if youdeploy to an EC2 / On-premises compute platform . The agent is not required fordeployments that use the AWS Lambda compute platform
 
 Check your security groups
 
