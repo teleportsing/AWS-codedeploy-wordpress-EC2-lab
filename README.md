@@ -1,7 +1,5 @@
 # Deploy the WordPress application to an Amazon EC2 instance using Amazon codedeploy.
 
-# Overview
-
 This lab introduces you to AWS Codedeploy In this lab you will use AWS Codedeploy to deploy an application to an Amazon EC2 instance
 
 # Topics covered
